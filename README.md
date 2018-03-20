@@ -2,9 +2,9 @@
 
 ### 기상예보 오보율을 계산하는 머신러닝 프로그램 개발
 		
-- [data.cpp](https://github.com/woosik0818/machine-learning-python/blob/master/data.cpp) - 파이선 프로그램에 필요한 data set을 가공하는 C++코드 입니다.
+- [data.cpp](https://github.com/woosik0818/machine-learning-python/blob/master/Code/data.cpp) - 파이선 프로그램에 필요한 data set을 가공하는 C++코드 입니다.
 
-- [multilayer_logistic_regression.py](https://github.com/woosik0818/machine-learning-python/blob/master/multilayer_logistic_regression.py) - tensorflow를 이용하여 logistic regression 알고리즘을 multilayer로 구성한 파이선 코드입니다.
+- [multilayer_logistic_regression.py](https://github.com/woosik0818/machine-learning-python/blob/master/Code/multilayer_logistic_regression.py) - tensorflow를 이용하여 logistic regression 알고리즘을 multilayer로 구성한 파이선 코드입니다.
 
 		- 기존 기상청 기상예보 오보율과 현재 기상예보 자료를 연산하여 실제 비가 올 확률을 구하는 프로그램입니다. 
 		
